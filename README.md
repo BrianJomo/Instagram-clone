@@ -78,3 +78,7 @@ $ python3 manage.py runserver
 
 ```
 
+To explore the features of this gallary website navigate to this link on your browser or just click on this link: 
+
+
+## Technology Used
