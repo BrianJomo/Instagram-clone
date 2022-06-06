@@ -40,3 +40,17 @@ and for SSH, use the following command;
 git@github.com:BrianJomo/Instagram-clone.git
 ```
 
+#### Setting up environment variables
+
+Create a `.env` file and paste paste the following and fill where appropriate:
+```
+SECRET_KEY='**'
+DEBUG=True
+DB_NAME='****'
+DB_USER='<your database name>'
+DB_PASSWORD='<password to your database>'
+DB_HOST='127.0.0.1'
+MODE='dev'
+ALLOWED_HOSTS='.localhost', '.herokuapp.com', '.127.0.0.1'
+DISABLE_COLLECTSTATIC=1
+```
