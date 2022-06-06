@@ -78,7 +78,7 @@ $ python3 manage.py runserver
 
 ```
 
-To explore the features of this gallary website navigate to this link on your browser or just click on this link: 
+To explore the features of this instagram clone website navigate to this link on your browser or just click on this link: 
 
 
 ## Technology Used
@@ -129,3 +129,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+## Authors Info
+
+-   Email- [Brian Jomo](mailto:Brianofficial39@gmail.com)
+
+-   Linkedin - [Brian Jomo](https://www.linkedin.com/in/brian-jomo/)
