@@ -78,7 +78,7 @@ $ python3 manage.py runserver
 
 ```
 
-To explore the features of this instagram clone website navigate to this link on your browser or just click on this link: 
+To explore the features of this instagram clone website navigate to this link on your browser or just click on this link: https://insta-3.herokuapp.com/account/login/
 
 
 ## Technology Used
